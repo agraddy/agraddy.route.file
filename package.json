@@ -1,0 +1,22 @@
+{
+  "name": "agraddy.route.file",
+  "version": "0.1.0",
+  "description": "Coming soon.",
+  "main": "index.js",
+  "author": "Anthony Graddy",
+  "license": "MIT",
+  "homepage": "https://github.com/agraddy/agraddy.route.file#readme",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+	  "type": "git",
+	  "url": "git://github.com/agraddy/agraddy.route.file.git"
+  },
+  "bugs": {
+	  "url": "https://github.com/agraddy/agraddy.route.file/issues"
+  },
+  "devDependencies": {
+	  "agraddy.test.tap": "^0.2.0"
+  }
+}
