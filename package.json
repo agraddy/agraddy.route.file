@@ -22,6 +22,6 @@
   },
   "dependencies": {
     "agraddy.drop.file": "^0.2.0",
-    "agraddy.luggage": "^0.2.0"
+    "agraddy.luggage": "^0.3.0"
   }
 }
